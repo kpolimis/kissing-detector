@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+# files
+*.mp4
+**/*dev*
+**/*.DS_store
+model.pkl
+
